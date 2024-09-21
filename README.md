@@ -20,3 +20,9 @@
 `flex box`
 `css grid`
 `regex`
+<br />
+<h2>تماس با من 📞</h2>
+<a href="https://www.linkedin.com/in/adel-khormali/">
+  <img src="https://github.com/adelkhormali/adelkhormali/blob/main/icons8-linkedin-96.png?raw=true">
+</a>
+
