@@ -23,6 +23,10 @@
 <br />
 <h2>تماس با من 📞</h2>
 <a href="https://www.linkedin.com/in/adel-khormali/">
-  <img src="https://github.com/adelkhormali/adelkhormali/blob/main/icons8-linkedin-96.png?raw=true">
+  <img width="50px" height="50px" align="left" src="https://github.com/adelkhormali/adelkhormali/blob/main/icons8-linkedin-96.png?raw=true">
+</a>
+
+<a href="https://t.me/adel_khormali">
+  <img width="50px" height="50px" align="left" src="https://github.com/adelkhormali/adelkhormali/blob/main/icons8-telegram-app-96.png?raw=true">
 </a>
 
