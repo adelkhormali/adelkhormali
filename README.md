@@ -1,5 +1,7 @@
 # من کی ام ؟ 👨‍💻
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" >
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" >
+</div>
 <h2 align="center">
   سلام👋 من عادل خرمالی هستم
 </h2>
@@ -21,12 +23,17 @@
 `css grid`
 `regex`
 <br />
-<h2>تماس با من 📞</h2>
+<h2>تماس با من 📞</h2> 
+<br />
 <a href="https://www.linkedin.com/in/adel-khormali/">
-  <img width="50px" height="50px" align="left" src="https://github.com/adelkhormali/adelkhormali/blob/main/icons8-linkedin-96.png?raw=true">
+<img width="50px" height="50px"  align="left"  src="https://github.com/adelkhormali/adelkhormali/blob/main/icons8-linkedin-96.png?raw=true">
+</a>
+<a href="https://t.me/adel_khormali">
+<img width="50px" height="50px" align="left" src="https://github.com/adelkhormali/adelkhormali/blob/main/icons8-telegram-app-96.png?raw=true">
 </a>
 
-<a href="https://t.me/adel_khormali">
-  <img width="50px" height="50px" align="left" src="https://github.com/adelkhormali/adelkhormali/blob/main/icons8-telegram-app-96.png?raw=true">
-</a>
+                  
+    
+
+
 
