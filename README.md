@@ -1,15 +1,16 @@
-# من کی ام ؟ 👨‍💻
+<h2> 👋 Hi There! I'm Adel Khormali</h2>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" >
 </div>
-<h2 align="center">
-  سلام👋 من عادل خرمالی هستم
-</h2>
-<p align="center">
-  برنامه نویس فرانت اند وب 💻 دارای مدرک کارشناسی در مهندسی کامپیوتر 🎓 علاقه مند به یادگیری و دنیای کامپیوتر (01)  و ...
-</p>
+<h3>About Me 👨‍💻</h3>
+
+- Frontend developer 💻
+- Bachelor's degree in Computer Engineering 🎓
+- Interested in learning and the world of computers (01)
+  
 <br />
-<h2>ابزار هایی که استفاده میکنم 💻</h2>
+
+<h2>Tech Stack 💻</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +23,17 @@
 `flex box`
 `css grid`
 `regex`
+
 <br />
+
+<h2> ⚡ Github Stats</h2>
+
+<a href="https://github.com/adelkhormali">
+  <img src="https://github-readme-stats.vercel.app/api?username=adelkhormali&show_icons=true&theme=radical" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelkhormali" /> -->
+</a>
+
+
 <h2>تماس با من 📞</h2> 
 <br />
 <a href="https://www.linkedin.com/in/adel-khormali/">
