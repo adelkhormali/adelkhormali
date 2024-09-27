@@ -10,7 +10,7 @@
   
 <br />
 
-<h2>Tech Stack 💻</h2>
+<h2>Skills 💻</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +34,7 @@
 </a>
 
 
-<h2>تماس با من 📞</h2> 
+<h2>Contact Me 📞</h2> 
 <br />
 <a href="https://www.linkedin.com/in/adel-khormali/">
 <img width="50px" height="50px"  align="left"  src="https://github.com/adelkhormali/adelkhormali/blob/main/icons8-linkedin-96.png?raw=true">
